@@ -1,6 +1,6 @@
 # A simple and static site to test deadlinkchecker script
 
-This repository provides a sample website to [https://github.com/JeremieLitzler/deadlinkchecker](https://github.com/JeremieLitzler/deadlinkchecker) project.
+This repository provides a sample website to [https://github.com/JeremieLitzler/linkprobe](https://github.com/JeremieLitzler/linkprobe) project.
 
 ## Goal 
 
